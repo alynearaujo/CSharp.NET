@@ -27,8 +27,12 @@
 
 //Convertendo um tipo inteiro para string 
 
-int c = 32;
-string d = c.ToString();
-Console.WriteLine(d);
+// int c = 32;
+// string d = c.ToString();
+// Console.WriteLine(d);
 
+// Casting implicito
 
+int a = 5;
+double b = a; // não dá erro pois o double suporta int, daria erro se fosse o contrário pois pode existir um valor de double que o int não suporta (necessário conversão)
+Console.WriteLine(b);
