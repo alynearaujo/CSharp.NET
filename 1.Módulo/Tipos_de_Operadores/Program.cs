@@ -69,6 +69,44 @@
 //     Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque.");
 // }
 
+// operador lógico || (Ou)
+
+// string nomeDeUsuario = "usuario123";
+// string email = "usuario123@example.com";
+// string entradaDoUsuario = "usuario123";
+
+// if (entradaDoUsuario == nomeDeUsuario || entradaDoUsuario == email)
+// {
+//     Console.WriteLine("Login bem-sucedido.");
+// }
+// else
+// {
+//     Console.WriteLine("Nome de usuário ou e-mail incorretos.");
+// }
+
+// switch case
+
+Console.WriteLine("Digite uma letra");
+string? letra = Console.ReadLine();
+
+switch (letra)
+{
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine("Vogal");
+        break;
+    default:
+        Console.WriteLine("Não é uma vogal.");
+        break;
+}
+
+
+
+
+
 
 
 
