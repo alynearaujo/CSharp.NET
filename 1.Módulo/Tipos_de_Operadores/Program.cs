@@ -105,6 +105,17 @@
 
 // Operador lógico && (AND)
 
+bool presencaMinima = true;
+double media = 7;
+
+if (presencaMinima && media >= 7)
+{
+    Console.WriteLine("Aprovado.");
+}
+else 
+{
+    Console.WriteLine("Reprovado.");
+}
 
 
 
