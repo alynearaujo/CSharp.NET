@@ -33,6 +33,45 @@
 
 // Casting implicito
 
-int a = 5;
-double b = a; // não dá erro pois o double suporta int, daria erro se fosse o contrário pois pode existir um valor de double que o int não suporta (necessário conversão)
-Console.WriteLine(b);
+// int a = 5;
+// não dá erro pois o double suporta int, daria erro se fosse o contrário pois pode existir um valor de double que o int não suporta (necessário conversão)
+// double b = a; 
+// Console.WriteLine(b);
+
+// Convertendo de maneira segura
+
+// string x = "15";
+// int y = 0;
+
+// int.TryParse(x, out y);
+// Console.WriteLine("Conversão realizada!");
+
+// Condicionais
+
+// int quantidadeEmEstoque = 10;
+// int quantidadeCompra = 0;
+// bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+// Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+// Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
+// Console.WriteLine($"É possível realizar a venda? {possivelVenda}");
+
+// if (quantidadeCompra == 0)
+// {
+//     Console.WriteLine("Venda inválida.");
+// }
+// else if (possivelVenda) 
+// {
+//     Console.WriteLine("Venda realizada.");
+// }
+// else
+// {
+//     Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque.");
+// }
+
+
+
+
+
+
+
