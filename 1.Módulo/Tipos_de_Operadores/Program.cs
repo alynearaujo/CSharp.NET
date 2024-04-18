@@ -105,18 +105,31 @@
 
 // Operador lógico && (AND)
 
-bool presencaMinima = true;
-double media = 7;
+// bool presencaMinima = true;
+// double media = 7;
 
-if (presencaMinima && media >= 7)
-{
-    Console.WriteLine("Aprovado.");
-}
-else 
-{
-    Console.WriteLine("Reprovado.");
-}
+// if (presencaMinima && media >= 7)
+// {
+//     Console.WriteLine("Aprovado.");
+// }
+// else 
+// {
+//     Console.WriteLine("Reprovado.");
+// }
 
+// Operador lógico ! (not)
+
+bool choveu = false;
+bool estaTarde = false;
+
+if (!choveu && !estaTarde)
+{
+    Console.WriteLine("Vou pedalar.");
+}
+else
+{
+    Console.WriteLine("Vou pedalar outro dia.");
+}
 
 
 
