@@ -10,18 +10,21 @@ Calculadora calc = new Calculadora();
 // calc.Seno(30);
 // calc.Coseno(30);
 // calc.Tangente(30);
+calc.RaizQuadrada(9);
 
-int numeroIncremento = 10;
-Console.WriteLine(numeroIncremento);
-Console.WriteLine("incremetando o 10");
-numeroIncremento++;
+// int numeroIncremento = 10;
+// Console.WriteLine(numeroIncremento);
+// Console.WriteLine("incremetando o 10");
+// numeroIncremento++;
 
-Console.WriteLine(numeroIncremento);
+// Console.WriteLine(numeroIncremento);
 
-int numeroDecremento = 20;
-Console.WriteLine(numeroDecremento);
-numeroDecremento--;
+// int numeroDecremento = 20;
+// Console.WriteLine(numeroDecremento);
+// numeroDecremento--;
 
-Console.WriteLine(numeroDecremento);
+// Console.WriteLine(numeroDecremento);
+
+
 
 
