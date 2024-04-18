@@ -37,21 +37,23 @@ namespace Operadores_Aritmeticos.Models
         {
             double radiano = angulo * Math.PI / 180;
             double seno = Math.Sin(radiano);
-            Console.WriteLine($"Seno de {angulo}º = {seno}");
+            Console.WriteLine($"Seno de {angulo}º = {Math.Round(seno, 4)}");
         }
 
         public void Coseno(double angulo)
         {
             double radiano = angulo * Math.PI / 180;
             double coseno = Math.Cos(radiano);
-            Console.WriteLine($"Seno de {angulo}º = {coseno}");
+            Console.WriteLine($"Coseno de {angulo}º = {Math.Round(coseno, 4)}");
         }
 
         public void Tangente(double angulo)
         {
             double radiano = angulo * Math.PI / 180;
             double tangente = Math.Tan(radiano);
-            Console.WriteLine($"Seno de {angulo}º = {tangente}");
+            Console.WriteLine($"Tangente de {angulo}º = {Math.Round(tangente, 4)}");
         }
+
+        
     }
 }
