@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tipos_de_Operadores
-build_property.ProjectDir = D:\Estudos\CSharp.NET\1.Módulo\Tipos_de_Operadores\
+build_property.ProjectDir = d:\Estudos\CSharp.NET\1.Módulo\Tipos_de_Operadores\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
