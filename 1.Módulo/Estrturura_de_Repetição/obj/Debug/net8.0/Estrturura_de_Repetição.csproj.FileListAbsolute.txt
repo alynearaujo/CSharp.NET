@@ -1,0 +1,15 @@
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\bin\Debug\net8.0\Estrturura_de_Repetição.exe
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\bin\Debug\net8.0\Estrturura_de_Repetição.deps.json
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\bin\Debug\net8.0\Estrturura_de_Repetição.runtimeconfig.json
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\bin\Debug\net8.0\Estrturura_de_Repetição.dll
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\bin\Debug\net8.0\Estrturura_de_Repetição.pdb
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\obj\Debug\net8.0\Estrturura_de_Repetição.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\obj\Debug\net8.0\Estrturura_de_Repetição.AssemblyInfoInputs.cache
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\obj\Debug\net8.0\Estrturura_de_Repetição.AssemblyInfo.cs
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\obj\Debug\net8.0\Estrturura_de_Repetição.csproj.CoreCompileInputs.cache
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\obj\Debug\net8.0\Estrturura_de_Repetição.sourcelink.json
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\obj\Debug\net8.0\Estrturura_de_Repetição.dll
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\obj\Debug\net8.0\refint\Estrturura_de_Repetição.dll
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\obj\Debug\net8.0\Estrturura_de_Repetição.pdb
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\obj\Debug\net8.0\Estrturura_de_Repetição.genruntimeconfig.cache
+D:\Estudos\CSharp.NET\1.Módulo\Estrturura_de_Repetição\obj\Debug\net8.0\ref\Estrturura_de_Repetição.dll
