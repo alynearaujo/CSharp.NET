@@ -18,12 +18,13 @@ calc.RaizQuadrada(9);
 // numeroIncremento++;
 
 // Console.WriteLine(numeroIncremento);
+ int numeroDecremento = 20;
+Console.WriteLine(numeroDecremento);
+numeroDecremento--;
 
-// int numeroDecremento = 20;
-// Console.WriteLine(numeroDecremento);
-// numeroDecremento--;
+Console.WriteLine(numeroDecremento);
 
-// Console.WriteLine(numeroDecremento);
+
 
 
 
