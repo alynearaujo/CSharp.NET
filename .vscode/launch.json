@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/1.Módulo/Tipos_de_Operadores/bin/Debug/net8.0/Tipos_de_Operadores.dll",
             "args": [],
             "cwd": "${workspaceFolder}/1.Módulo/Tipos_de_Operadores",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {

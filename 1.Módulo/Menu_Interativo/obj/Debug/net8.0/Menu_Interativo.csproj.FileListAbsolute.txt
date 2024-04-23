@@ -1,0 +1,5 @@
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo.AssemblyInfoInputs.cache
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo.AssemblyInfo.cs
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo.csproj.CoreCompileInputs.cache
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo.sourcelink.json
