@@ -3,3 +3,13 @@ D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo
 D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo.AssemblyInfo.cs
 D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo.csproj.CoreCompileInputs.cache
 D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo.sourcelink.json
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\bin\Debug\net8.0\Menu_Interativo.exe
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\bin\Debug\net8.0\Menu_Interativo.deps.json
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\bin\Debug\net8.0\Menu_Interativo.runtimeconfig.json
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\bin\Debug\net8.0\Menu_Interativo.dll
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\bin\Debug\net8.0\Menu_Interativo.pdb
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo.dll
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\refint\Menu_Interativo.dll
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo.pdb
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\Menu_Interativo.genruntimeconfig.cache
+D:\Estudos\CSharp.NET\1.Módulo\Menu_Interativo\obj\Debug\net8.0\ref\Menu_Interativo.dll
