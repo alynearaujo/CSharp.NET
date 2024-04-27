@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "BibliotecaDeClasses.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BibliotecaDeClasses.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliotecaDeClasses.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BibliotecaDeClasses.Common/1.0.0": {
+      "type": "project",
+      "path": "../BibliotecaDeClasses.Common/BibliotecaDeClasses.Common.csproj",
+      "msbuildProject": "../BibliotecaDeClasses.Common/BibliotecaDeClasses.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "BibliotecaDeClasses.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\alyne\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Estudos\\CSharp.NET\\1.Módulo\\Solution\\BibliotecaDeClasses.Common\\BibliotecaDeClasses.Common.csproj": {
+              "projectPath": "D:\\Estudos\\CSharp.NET\\1.Módulo\\Solution\\BibliotecaDeClasses.Common\\BibliotecaDeClasses.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
