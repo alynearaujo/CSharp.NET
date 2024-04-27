@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYS1yOr2I6x9spLUV7tZrzhcwmjxyJa+UJKS6O3gt4lex8PnGSHv84DCmyxpOtsOaHtOmNTmvu7yhgZlfI+Z/w==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\CSharp.NET\\1.Módulo\\Solution\\DOTNET6_Exemplo\\DOTNET6_Exemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alyne\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\alyne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\alyne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\alyne\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
