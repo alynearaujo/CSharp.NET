@@ -1,0 +1,15 @@
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\bin\Debug\net8.0\Array_e_Listas.exe
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\bin\Debug\net8.0\Array_e_Listas.deps.json
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\bin\Debug\net8.0\Array_e_Listas.runtimeconfig.json
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\bin\Debug\net8.0\Array_e_Listas.dll
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\bin\Debug\net8.0\Array_e_Listas.pdb
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\obj\Debug\net8.0\Array_e_Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\obj\Debug\net8.0\Array_e_Listas.AssemblyInfoInputs.cache
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\obj\Debug\net8.0\Array_e_Listas.AssemblyInfo.cs
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\obj\Debug\net8.0\Array_e_Listas.csproj.CoreCompileInputs.cache
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\obj\Debug\net8.0\Array_e_Listas.sourcelink.json
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\obj\Debug\net8.0\Array_e_Listas.dll
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\obj\Debug\net8.0\refint\Array_e_Listas.dll
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\obj\Debug\net8.0\Array_e_Listas.pdb
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\obj\Debug\net8.0\Array_e_Listas.genruntimeconfig.cache
+D:\Estudos\CSharp.NET\1.Módulo\Array_e_Listas\obj\Debug\net8.0\ref\Array_e_Listas.dll
