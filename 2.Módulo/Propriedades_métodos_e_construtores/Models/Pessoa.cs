@@ -8,14 +8,12 @@ namespace Propriedades_métodos_e_construtores.Models
     public class Pessoa
     {
         private string _nome;
+        private int _idade;
 
         public string Nome 
         {   
-            get
-            {
-                return _nome.ToUpper();
-            }
-
+            get => _nome.ToUpper();
+            
             set
             {
                 if (value == "")
@@ -27,9 +25,28 @@ namespace Propriedades_métodos_e_construtores.Models
             }         
         }
 
+        
+        public int Idade 
+        {   
+            
+            get => _idade;
+        
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("A idade não pode ser menor do que zero.");
+                }
+
+                _idade = value;
+            } 
+        
+        }
 
 
-        public int Idade { get; set; }
+
+
+
 
         public void Apresentar()
         {
