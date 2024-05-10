@@ -1,0 +1,15 @@
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\bin\Debug\net8.0\Manipulando_valores.exe
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\bin\Debug\net8.0\Manipulando_valores.deps.json
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\bin\Debug\net8.0\Manipulando_valores.runtimeconfig.json
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\bin\Debug\net8.0\Manipulando_valores.dll
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\bin\Debug\net8.0\Manipulando_valores.pdb
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\obj\Debug\net8.0\Manipulando_valores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\obj\Debug\net8.0\Manipulando_valores.AssemblyInfoInputs.cache
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\obj\Debug\net8.0\Manipulando_valores.AssemblyInfo.cs
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\obj\Debug\net8.0\Manipulando_valores.csproj.CoreCompileInputs.cache
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\obj\Debug\net8.0\Manipulando_valores.sourcelink.json
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\obj\Debug\net8.0\Manipulando_valores.dll
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\obj\Debug\net8.0\refint\Manipulando_valores.dll
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\obj\Debug\net8.0\Manipulando_valores.pdb
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\obj\Debug\net8.0\Manipulando_valores.genruntimeconfig.cache
+D:\Estudos\CSharp.NET\2.Módulo\Manipulando_valores\obj\Debug\net8.0\ref\Manipulando_valores.dll
