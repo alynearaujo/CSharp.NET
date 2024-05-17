@@ -14,11 +14,19 @@ Console.WriteLine(porcentagem.ToString("P"));
 int numero = 654321;
 Console.WriteLine(numero.ToString("##-##-##"));
 
+DateTime data = DateTime.Now;
+Console.WriteLine(data); 
+Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm")); // utilizar o H em maiúsculo representa o horário em formato de 24h
+Console.WriteLine(data.ToString("dd/MM/yyyy hh:mm")); // utilizar o H em minúsculo representa o horário em formato de 12h
+Console.WriteLine(data.ToShortDateString()); // exibe apenas a data
+Console.WriteLine(data.ToShortTimeString()); // exibe apenas a hora
 
+DateTime dataConvertida = DateTime.Parse("01/03/1996 11:50"); // converte string para tipo datetime, se o valor for inválido retorna exception
+Console.WriteLine(dataConvertida);
 
-
-
-
+string dataString = "2023-13-17 18:00";
+DateTime.TryParseExact(dataString, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime data2); // não retorna exception em caso de erro
+Console.WriteLine(data2);
 
 
 
