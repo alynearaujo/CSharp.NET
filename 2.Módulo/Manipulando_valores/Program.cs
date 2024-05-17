@@ -6,11 +6,13 @@ CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR"); // alterando
 decimal valorMonetario = 1582.40M;
 Console.WriteLine($"{valorMonetario:C}");
 Console.WriteLine(valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("en-US"))); // alterando a localização da cultura
+Console.WriteLine(valorMonetario.ToString("C8"));
 
+double porcentagem = .7721;
+Console.WriteLine(porcentagem.ToString("P"));
 
-
-
-
+int numero = 654321;
+Console.WriteLine(numero.ToString("##-##-##"));
 
 
 
