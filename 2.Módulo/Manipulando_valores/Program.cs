@@ -24,11 +24,18 @@ Console.WriteLine(data.ToShortTimeString()); // exibe apenas a hora
 DateTime dataConvertida = DateTime.Parse("01/03/1996 11:50"); // converte string para tipo datetime, se o valor for inválido retorna exception
 Console.WriteLine(dataConvertida);
 
-string dataString = "2023-13-17 18:00";
-DateTime.TryParseExact(dataString, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime data2); // não retorna exception em caso de erro
+string dataString = "2023-03-17 18:00";
+bool sucesso = DateTime.TryParseExact(dataString, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime data2); // não retorna exception em caso de erro
 Console.WriteLine(data2);
 
-
+if (sucesso)
+{
+    Console.WriteLine($"Conversão realizada com sucesso! Data: {data2}");
+}
+else
+{
+    Console.WriteLine($"{dataString} não é uma data válida.");
+}
 
 
 // Pessoa p1 = new Pessoa(nome: "Alane", sobrenome: "Vitória");
