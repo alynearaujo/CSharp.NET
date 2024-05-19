@@ -1,0 +1,15 @@
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\bin\Debug\net8.0\Exceções_e_Coleções.exe
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\bin\Debug\net8.0\Exceções_e_Coleções.deps.json
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\bin\Debug\net8.0\Exceções_e_Coleções.runtimeconfig.json
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\bin\Debug\net8.0\Exceções_e_Coleções.dll
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\bin\Debug\net8.0\Exceções_e_Coleções.pdb
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\obj\Debug\net8.0\Exceções_e_Coleções.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\obj\Debug\net8.0\Exceções_e_Coleções.AssemblyInfoInputs.cache
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\obj\Debug\net8.0\Exceções_e_Coleções.AssemblyInfo.cs
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\obj\Debug\net8.0\Exceções_e_Coleções.csproj.CoreCompileInputs.cache
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\obj\Debug\net8.0\Exceções_e_Coleções.sourcelink.json
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\obj\Debug\net8.0\Exceções_e_Coleções.dll
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\obj\Debug\net8.0\refint\Exceções_e_Coleções.dll
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\obj\Debug\net8.0\Exceções_e_Coleções.pdb
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\obj\Debug\net8.0\Exceções_e_Coleções.genruntimeconfig.cache
+D:\Estudos\CSharp.NET\2.Módulo\Exceções_e_Coleções\obj\Debug\net8.0\ref\Exceções_e_Coleções.dll
