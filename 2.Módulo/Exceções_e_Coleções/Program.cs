@@ -1,20 +1,21 @@
 ﻿using Exceções_e_Coleções.Models;
 
-Queue<int> fila = new Queue<int>();
+Stack<int> pilha = new Stack<int>();
 
-fila.Enqueue(2);
-fila.Enqueue(5);
-fila.Enqueue(3);
-fila.Enqueue(9);
+pilha.Push(1);
+pilha.Push(3);
+pilha.Push(5);
+pilha.Push(7);
+pilha.Push(9);
 
-foreach (int item in fila)
+foreach(int item in pilha)
 {
     Console.WriteLine(item);
 }
 
-Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+Console.WriteLine($"Removendo o elemento do topo: {pilha.Pop()}");
 
-foreach (int item in fila)
+foreach(int item in pilha)
 {
     Console.WriteLine(item);
 }
@@ -33,6 +34,24 @@ foreach (int item in fila)
 
 
 
+// Queue<int> fila = new Queue<int>();
+
+// fila.Enqueue(2);
+// fila.Enqueue(5);
+// fila.Enqueue(3);
+// fila.Enqueue(9);
+
+// foreach (int item in fila)
+// {
+//     Console.WriteLine(item);
+// }
+
+// Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+
+// foreach (int item in fila)
+// {
+//     Console.WriteLine(item);
+// }
 
 
 // new ExemploExcecao().Metodo1();
