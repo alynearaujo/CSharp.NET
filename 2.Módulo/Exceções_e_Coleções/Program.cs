@@ -1,23 +1,14 @@
 ﻿using Exceções_e_Coleções.Models;
 
-Stack<int> pilha = new Stack<int>();
+Dictionary<string, string> estados = new Dictionary<string, string>();
 
-pilha.Push(1);
-pilha.Push(3);
-pilha.Push(5);
-pilha.Push(7);
-pilha.Push(9);
+estados.Add("PE", "Pernambuco");
+estados.Add("SP", "São Paulo");
+estados.Add("BA", "Bahia");
 
-foreach(int item in pilha)
+foreach(var item in estados)
 {
-    Console.WriteLine(item);
-}
-
-Console.WriteLine($"Removendo o elemento do topo: {pilha.Pop()}");
-
-foreach(int item in pilha)
-{
-    Console.WriteLine(item);
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
 }
 
 
@@ -33,6 +24,37 @@ foreach(int item in pilha)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+// Stack<int> pilha = new Stack<int>();
+
+// pilha.Push(1);
+// pilha.Push(3);
+// pilha.Push(5);
+// pilha.Push(7);
+// pilha.Push(9);
+
+// foreach(int item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
+
+// Console.WriteLine($"Removendo o elemento do topo: {pilha.Pop()}");
+
+// foreach(int item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
 
 // Queue<int> fila = new Queue<int>();
 
