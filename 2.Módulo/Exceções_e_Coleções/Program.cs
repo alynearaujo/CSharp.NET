@@ -6,9 +6,31 @@ estados.Add("PE", "Pernambuco");
 estados.Add("SP", "São Paulo");
 estados.Add("BA", "Bahia");
 
-foreach(var item in estados)
+// foreach(var item in estados)
+// {
+//     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// }
+
+// Console.WriteLine("---------------");
+
+// estados.Remove("SP");
+// // alteração de valor
+// estados["PE"] = "Pernambuco - valor alterado";
+
+// foreach(var item in estados)
+// {
+//     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// }
+
+string chave = "MG";
+Console.WriteLine($"Verificando o elemento: {chave}");
+
+if (estados.ContainsKey(chave))
 {
-    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+    Console.WriteLine($"Valor existente: {chave}");
+}
+else{
+    Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
 }
 
 
