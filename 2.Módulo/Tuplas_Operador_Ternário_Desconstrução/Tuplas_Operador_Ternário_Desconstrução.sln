@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuplas_Operador_Ternário_Desconstrução", "Tuplas_Operador_Ternário_Desconstrução.csproj", "{B55ACFB7-20C3-4E6E-9B58-BAA01C89EBD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55ACFB7-20C3-4E6E-9B58-BAA01C89EBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55ACFB7-20C3-4E6E-9B58-BAA01C89EBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55ACFB7-20C3-4E6E-9B58-BAA01C89EBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55ACFB7-20C3-4E6E-9B58-BAA01C89EBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E11C58D-F41E-43E0-8BD8-C39B62E07110}
+	EndGlobalSection
+EndGlobal
