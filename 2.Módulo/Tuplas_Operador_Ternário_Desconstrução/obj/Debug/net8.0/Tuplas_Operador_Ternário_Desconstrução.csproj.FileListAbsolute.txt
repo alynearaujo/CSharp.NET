@@ -1,0 +1,15 @@
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\bin\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.exe
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\bin\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.deps.json
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\bin\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.runtimeconfig.json
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\bin\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.dll
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\bin\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.pdb
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\obj\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\obj\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.AssemblyInfoInputs.cache
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\obj\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.AssemblyInfo.cs
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\obj\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.csproj.CoreCompileInputs.cache
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\obj\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.sourcelink.json
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\obj\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.dll
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\obj\Debug\net8.0\refint\Tuplas_Operador_Ternário_Desconstrução.dll
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\obj\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.pdb
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\obj\Debug\net8.0\Tuplas_Operador_Ternário_Desconstrução.genruntimeconfig.cache
+D:\Estudos\CSharp.NET\2.Módulo\Tuplas_Operador_Ternário_Desconstrução\obj\Debug\net8.0\ref\Tuplas_Operador_Ternário_Desconstrução.dll
