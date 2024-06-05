@@ -1,21 +1,47 @@
 ﻿using Tuplas_Operador_Ternário_Desconstrução.Models;
 
-LeituraArquivo arquivo = new LeituraArquivo();
+Pessoa p1 = new Pessoa("Alyne", "Rodrigues");
 
-var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+(string nome, string sobrenome) = p1;
 
-if (sucesso)
-{
+Console.WriteLine($"{nome} {sobrenome}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// LeituraArquivo arquivo = new LeituraArquivo();
+
+// var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+// if (sucesso)
+// {
     
-    foreach(string linha in linhasArquivo)
-    {
-        Console.WriteLine(linha);
-    }
-}
-else
-{
-    Console.WriteLine("Não foi possível ler o arquivo.");
-}
+//     foreach(string linha in linhasArquivo)
+//     {
+//         Console.WriteLine(linha);
+//     }
+// }
+// else
+// {
+//     Console.WriteLine("Não foi possível ler o arquivo.");
+// }
 
 
 
