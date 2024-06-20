@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUp1yXCYu8Owur1GNV+h4mk/SM2C4eTLS/zfl2s+RZJbMowAJ5eoajaqAX6emkoWmLDN37FiLzs9YNPvQl7Tcg==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\CSharp.NET\\2.Módulo\\Nuget_Serializar_Atributos\\Nuget_Serializar_Atributos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alyne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
