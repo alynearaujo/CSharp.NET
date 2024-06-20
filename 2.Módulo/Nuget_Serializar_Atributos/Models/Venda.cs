@@ -8,7 +8,7 @@ namespace Nuget_Serializar_Atributos.Models
     public class Venda
     {
 
-        public Venda(int id, string produto, decimal preco, Dateime dataVenda)
+        public Venda(int id, string produto, decimal preco, DateTime dataVenda)
         {
             Id = id;
             Produto = produto;
