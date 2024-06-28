@@ -1,0 +1,15 @@
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\bin\Debug\net8.0\Introdução_Abstração_Encapsulamento.exe
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\bin\Debug\net8.0\Introdução_Abstração_Encapsulamento.deps.json
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\bin\Debug\net8.0\Introdução_Abstração_Encapsulamento.runtimeconfig.json
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\bin\Debug\net8.0\Introdução_Abstração_Encapsulamento.dll
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\bin\Debug\net8.0\Introdução_Abstração_Encapsulamento.pdb
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\obj\Debug\net8.0\Introdução_Abstração_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\obj\Debug\net8.0\Introdução_Abstração_Encapsulamento.AssemblyInfoInputs.cache
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\obj\Debug\net8.0\Introdução_Abstração_Encapsulamento.AssemblyInfo.cs
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\obj\Debug\net8.0\Introdução_Abstração_Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\obj\Debug\net8.0\Introdução_Abstração_Encapsulamento.sourcelink.json
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\obj\Debug\net8.0\Introdução_Abstração_Encapsulamento.dll
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\obj\Debug\net8.0\refint\Introdução_Abstração_Encapsulamento.dll
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\obj\Debug\net8.0\Introdução_Abstração_Encapsulamento.pdb
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\obj\Debug\net8.0\Introdução_Abstração_Encapsulamento.genruntimeconfig.cache
+D:\Estudos\CSharp.NET\3.Módulo\Introdução_Abstração_Encapsulamento\obj\Debug\net8.0\ref\Introdução_Abstração_Encapsulamento.dll
